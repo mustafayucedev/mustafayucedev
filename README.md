@@ -7,8 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/mustafayucedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mustafayucedev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mustafa-yuce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-yuce" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://tr.linkedin.com/in/mustafa-yuce/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://tr.linkedin.com/in/mustafa-yuce/" height="30" width="40" /></a>
 <a href="https://instagram.com/mustafayuce.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustafayuce.js" height="30" width="40" /></a>
 <a href="https://medium.com/mustafayucedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mustafayucedev" height="30" width="40" /></a>
 </p>
