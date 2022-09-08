@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React.js**
 
-- 🌱 I’m currently learning ****React.js,Redux,Next.js and Node.js****
+- 🌱 I’m currently learning ****React.js****
 
 - 💬 Ask me about **Html5,Css3,SASS,LESS,Tailwind,Bootstrap and JQuery**
 
