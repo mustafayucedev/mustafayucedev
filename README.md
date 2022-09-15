@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ****React.js****
 
-- 💬 Ask me about **Html5,Css3,SASS,LESS,Tailwind,Bootstrap and JQuery**
+- 💬 Ask me about **HTML5,CSS3,SASS,SCSS,LESS,TailwindCSS,Bootstrap,Javascript and JQuery**
 
 - 📫 How to reach me **mustafayucedev@gmail.com**
 
