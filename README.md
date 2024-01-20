@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Mustafa Yüce</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **React.js** and **Vue.js**
 
-- 🌱 I’m currently learning ****React.js****
-
-- 💬 Ask me about **HTML5,CSS3,SASS,SCSS,LESS,TailwindCSS,Bootstrap,Javascript and JQuery**
+- 💬 Ask me about **HTML5,CSS3,SASS,SCSS,LESS,TailwindCSS,Bootstrap,Javascript,jQuery,React.js and Vue.js**
 
 - 📫 How to reach me **mustafayucedev@gmail.com**
 
